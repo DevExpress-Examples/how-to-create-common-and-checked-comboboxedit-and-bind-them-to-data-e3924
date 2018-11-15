@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Employees.cs](./CS/CreatingCheckedComboBoxEdit/Employees.cs) (VB: [Employees.vb](./VB/CreatingCheckedComboBoxEdit/Employees.vb))
+* [MainWindow.xaml](./CS/CreatingCheckedComboBoxEdit/MainWindow.xaml) (VB: [MainWindow.xaml.vb](./VB/CreatingCheckedComboBoxEdit/MainWindow.xaml.vb))
+* [MainWindow.xaml.cs](./CS/CreatingCheckedComboBoxEdit/MainWindow.xaml.cs) (VB: [MainWindow.xaml.vb](./VB/CreatingCheckedComboBoxEdit/MainWindow.xaml.vb))
+<!-- default file list end -->
 # How to Create Common and Checked ComboBoxEdit and bind them to data
 
 
